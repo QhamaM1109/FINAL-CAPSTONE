@@ -5,7 +5,7 @@ This is a simple, responsive personal website built with HTML and CSS. It includ
 
 ## 🔗 Live Site
 
-👉 [View Website on GitHub Pages](https://QhamaM1109.github.io/your-repo-name)
+👉 [View Website on GitHub Pages](https://QhamaM1109.github.io/FINAL-CAPSTONE)
 
 ## 📱 Features
 
